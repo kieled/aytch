@@ -15,7 +15,7 @@
 </p>
 
 
-<p align="center">AYTCH is a Python library for extracting information about YouTube channels. It uses web scraping techniques to retrieve data from YouTube's web pages without any API keys and limits.</p>
+<p align="center">AYTCH is a Python library for extracting information about YouTube channels. It uses AIOHTTP library for best performance and concurrent fetching support. Library very lightweight (11KB) and return only extra nessesary information about any youtube channel.</p>
 
 
 ## :pencil2: Installation

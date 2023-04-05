@@ -1,6 +1,8 @@
-<h2 align="center">:small_red_triangle: AYTCH - Async YouTube Channels Info :small_red_triangle:</h2>
+<h2 align="center">:small_red_triangle: AYTCH - Async YouTube Channels Scrapper :small_red_triangle:</h2>
 
-![f71e489b-7db1-480f-8f5b-1954d4a70a17](https://user-images.githubusercontent.com/68655454/229964492-2a6fa0db-99da-411c-8b9a-41f959aa266a.jpg)
+![Logo](https://user-images.githubusercontent.com/68655454/229973420-c79ee91d-e73a-4358-95ff-78f501e99902.jpg)
+
+
 <p align="center">
     <a href="https://pypi.python.org/pypi/aytch" alt="PyPi Package Version">
         <img src="https://img.shields.io/pypi/v/aytch.svg" /></a>

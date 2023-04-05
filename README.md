@@ -1,5 +1,9 @@
-<h2 align="center">:small_red_triangle: AYTCH - Async YouTube Channels Info :small_red_triangle:</h1>
-###### Inspired by [yt-channel-info](https://github.com/FreeTubeApp/yt-channel-info)
+<h2 align="center">:small_red_triangle: AYTCH - Async YouTube Channels Info :small_red_triangle:</h2>
+
+![f71e489b-7db1-480f-8f5b-1954d4a70a17](https://user-images.githubusercontent.com/68655454/229964492-2a6fa0db-99da-411c-8b9a-41f959aa266a.jpg)
+
+
+<p align="center">Inspired by <a href="https://github.com/FreeTubeApp/yt-channel-info">yt-channel-info</a></p>
 
 AYTCH is a Python library for extracting information about YouTube channels. It uses web scraping techniques to retrieve data from YouTube's web pages without any API keys and limits.
 

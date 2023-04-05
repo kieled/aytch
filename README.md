@@ -1,11 +1,19 @@
 <h2 align="center">:small_red_triangle: AYTCH - Async YouTube Channels Info :small_red_triangle:</h2>
 
 ![f71e489b-7db1-480f-8f5b-1954d4a70a17](https://user-images.githubusercontent.com/68655454/229964492-2a6fa0db-99da-411c-8b9a-41f959aa266a.jpg)
+<p align="center">
+    <a href="https://pypi.python.org/pypi/aytch" alt="PyPi Package Version">
+        <img src="https://img.shields.io/pypi/v/aytch.svg" /></a>
+    <a href="https://pypi.python.org/pypi/aytch" alt="Supported Python versions">
+        <img src="https://img.shields.io/pypi/pyversions/aytch.svg" /></a>
+    <a href="https://github.com/kieled/aytch/actions/workflows/test.yaml" alt="GitFlow">
+        <img src="https://github.com/kieled/aytch/actions/workflows/test.yaml/badge.svg" /></a>
+    <a href="https://codecov.io/gh/kieled/aytch" alt="codecov">
+        <img src="https://codecov.io/gh/kieled/aytch/branch/main/graph/badge.svg?token=3M53KOF8R1" /></a>
+</p>
 
 
-<p align="center">Inspired by <a href="https://github.com/FreeTubeApp/yt-channel-info">yt-channel-info</a></p>
-
-AYTCH is a Python library for extracting information about YouTube channels. It uses web scraping techniques to retrieve data from YouTube's web pages without any API keys and limits.
+<p align="center">AYTCH is a Python library for extracting information about YouTube channels. It uses web scraping techniques to retrieve data from YouTube's web pages without any API keys and limits.</p>
 
 
 ## :pencil2: Installation
@@ -32,7 +40,7 @@ asyncio.run(main())
 ## :link: API
 ```python
 get_channel_info(
-    channel_url: URL, 
+    channel_url: str, 
     lang: 'en' | 'ru' = 'en'
 ) -> dict
 ```
@@ -58,5 +66,7 @@ A dictionary containing the following information about the channel:
 ## :recycle: Contributing
 Contributions to aytch are welcome! If you'd like to contribute, please fork the repository and make a pull request.
 
-License
+## :warning: License
 aytch is licensed under the MIT License. See LICENSE for more information.
+
+<p align="center">Inspired by <a href="https://github.com/FreeTubeApp/yt-channel-info">yt-channel-info</a></p>

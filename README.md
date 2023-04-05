@@ -17,14 +17,14 @@
 
 
 ## :pencil2: Installation
-You can install YoutubeGrabber using pip:
+You can install AYTCH using pip:
 
 ```python
 pip install aytch
 ```
 
 ## :bookmark_tabs: Usage
-Here's an example of how to use YoutubeGrabber to get information about a YouTube channel:
+Here's an example of how to use AYTCH to get information about a YouTube channel:
 
 ```python
 import asyncio

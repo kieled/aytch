@@ -13,10 +13,6 @@ jobs:
       with:
         pypi_token: ${{ secrets.PYPI_TOKEN }}
 
-    - name: Generate Changelog
-      run: |
-        VERSION=$(.github/hack/version.sh)
-        .github/hack/changelog.sh $VERSION > NEW-VERSION-CHANGELOG.md
     - name: Publish
       uses: softprops/action-gh-release@v1
       with:

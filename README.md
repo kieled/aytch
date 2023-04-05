@@ -65,6 +65,20 @@ A dictionary containing the following information about the channel:
 * **description (str)**: _The description of the channel._
 * **view_count (str)**: _The total number of views on the channel._
 
+Example:
+```python
+{
+    'author': 'The Slow Mo Guys',
+    'author_id': 'UCUK0HBIBWgM2c4vsPhkYY4w',
+    'author_url': 'https://www.youtube.com/channel/UCUK0HBIBWgM2c4vsPhkYY4w',
+    'author_thumbnail': 'https://yt3.ggpht.com/ytc/AAUvwnhRnI8Lr...',
+    'subscriber_count': 14500000,
+    'description': 'The best slow motion on Youtube.  \n\nWe shoot all of our...',
+    'view_count': '265308911'
+}
+
+```
+
 ## :recycle: Contributing
 Contributions to aytch are welcome! If you'd like to contribute, please fork the repository and make a pull request.
 

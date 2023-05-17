@@ -21,7 +21,7 @@
 ## :pencil2: Installation
 You can install AYTCH using pip:
 
-```python
+```bash
 pip install aytch
 ```
 

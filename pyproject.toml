@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "aytch"
-version = "0.1.0"
+version = "0.1.1"
 description = "Async YouTube Channels Info"
 authors = ["Kiel Ed <kieledssh@gmail.com>"]
 readme = "README.md"
@@ -11,13 +11,10 @@ repository = "https://github.com/kieled/aytch"
 classifiers = [
     "License :: OSI Approved :: Apache Software License",
     "Programming Language :: Python",
-    "Programming Language :: Python :: 3.6",
-    "Programming Language :: Python :: 3.7",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
     "Programming Language :: Python :: 3.11",
-    "Programming Language :: Python :: Implementation :: CPython",
     "Programming Language :: Python :: Implementation :: PyPy",
     "Topic :: Software Development :: Libraries :: Python Modules",
     "Intended Audience :: Developers",
